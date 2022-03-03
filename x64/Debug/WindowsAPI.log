@@ -1,0 +1,95 @@
+﻿  animation.cpp
+  battleScene.cpp
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameData.h(5,1): warning C4005: 'LIARAMAXMP': 매크로 재정의
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameData.h(4): message : 'LIARAMAXMP'의 이전 정의를 참조하십시오.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\battleScene.cpp(37,35): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\battleScene.cpp(41,35): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\battleScene.cpp(45,35): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\battleScene.cpp(83,36): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\battleScene.cpp(85,36): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\battleScene.cpp(87,36): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\battleScene.cpp(182): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\battleScene.cpp(187): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\battleScene.cpp(193): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\battleScene.cpp(200): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\battleScene.cpp(206): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\battleScene.cpp(213): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\battleScene.cpp(227): error C2102: '&'에 l-value가 있어야 합니다.
+  effect.cpp
+  enemyManager.cpp
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameData.h(5,1): warning C4005: 'LIARAMAXMP': 매크로 재정의
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameData.h(4): message : 'LIARAMAXMP'의 이전 정의를 참조하십시오.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\enemyManager.cpp(43,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\enemyManager.cpp(46,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\enemyManager.cpp(49,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\enemyManager.cpp(62,57): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\enemyManager.cpp(65,57): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\enemyManager.cpp(139,32): error C2664: 'void std::vector<tagValkyrie,std::allocator<tagValkyrie>>::push_back(const _Ty &)': 인수 1을(를) 'tagValkyrie *'에서 'const _Ty &'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Ty=tagValkyrie
+          ]
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\enemyManager.cpp(139,32): message : 원인: 'tagValkyrie *'에서 'const _Ty'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Ty=tagValkyrie
+          ]
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\enemyManager.cpp(139,32): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\vector(755,33): message : 'std::vector<tagValkyrie,std::allocator<tagValkyrie>>::push_back' 선언을 참조하십시오.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\enemyManager.cpp(205): error C2102: '&'에 l-value가 있어야 합니다.
+  gameNode.cpp
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameNode.cpp(87,36): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameNode.cpp(88,36): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameNode.cpp(82,8): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameNode.cpp(81,14): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  kyle.cpp
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameData.h(5,1): warning C4005: 'LIARAMAXMP': 매크로 재정의
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameData.h(4): message : 'LIARAMAXMP'의 이전 정의를 참조하십시오.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(54,82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(54,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(153,46): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(156,46): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(159,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(162,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(165,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(169,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(172,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(178,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(182,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(186,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(190,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(193,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(197,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(201,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(313,28): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(370,31): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(528,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(528,6): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(576,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(581,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(586,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(591,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(596,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(601,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(606,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(611,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(617,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(623,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(628,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(633,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(639,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(645,48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\kyle.cpp(649,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  liara.cpp
+  playGround.cpp
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameData.h(5,1): warning C4005: 'LIARAMAXMP': 매크로 재정의
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameData.h(4): message : 'LIARAMAXMP'의 이전 정의를 참조하십시오.
+  progressBar.cpp
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\progressBar.cpp(24,36): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\progressBar.cpp(49,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  timer.cpp
+  WindowsAPI.cpp
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameData.h(5,1): warning C4005: 'LIARAMAXMP': 매크로 재정의
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\gameData.h(4): message : 'LIARAMAXMP'의 이전 정의를 참조하십시오.
+C:\Users\user\Desktop\programming\포트폴리오\준포폴\WindowsAPI.cpp(101,16): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
